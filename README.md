@@ -38,7 +38,7 @@ Die Weboberfläche von phpMyAdmin muss geöffnet werden.
 Beispielsweise:  
   http://localhost/phpmyadmin/
 
-Als nächstes wird über den Tab `'Importieren'` -> `'Datei auswählen'` die Datei `book_lending_final.sql` 
+Als nächstes wird über den Tab `'Importieren'` -> `'Datei auswählen'` die Datei `Luft_Matthias_IU14156100_ DLBDSPBDM01_D_Abschlussphase_SQL.sql` 
 an ihrem Speicherort ausgewählt.
 
 Der Import wird dann über die Schaltfläche `'Importieren'` am Ende der Seite gestartet und die Datenbank
