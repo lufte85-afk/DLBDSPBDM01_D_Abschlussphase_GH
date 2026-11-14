@@ -27,7 +27,7 @@ Dann wird die gerade erstellte Datenbank als aktive DB gesetzt:
 Jetzt sollte hinter dem MariaDB Prompt der Name aktiven Datenbank angezeigt werden.
 
 Der Import der Datenbank wird über das source Kommando ausgeführt:  
-  `source {/Pfad/zur/Datei/}book_lending_final.sql;`
+  `source {/Pfad/zur/Datei/}Luft_Matthias_IU14156100_ DLBDSPBDM01_D_Abschlussphase_SQL.sql;`
 
 Es werden alle Statements der SQL-Datei nacheinander ausgeführt, wobei die Tabellen erstellt und
 mit den Daten gefüllt werden.
